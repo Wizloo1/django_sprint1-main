@@ -44,6 +44,7 @@ posts = [
     },
 ]
 
+
 reversed_posts = list.copy(posts)
 list.reverse(reversed_posts)
 
